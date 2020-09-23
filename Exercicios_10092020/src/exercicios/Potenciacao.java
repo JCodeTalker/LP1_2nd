@@ -3,6 +3,9 @@ package exercicios;
 import java.util.Scanner;
 
 public class Potenciacao {
+	public String abc() {
+		return "abc";
+	};
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
